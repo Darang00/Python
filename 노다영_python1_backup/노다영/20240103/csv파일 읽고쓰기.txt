@@ -1,0 +1,7 @@
+csv
+comma seperated values
+
+이름,국어,수학,영어
+kim,100,97,89
+lee, 89,78,10
+

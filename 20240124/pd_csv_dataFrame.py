@@ -37,7 +37,8 @@ print(tot.iloc[1:7:2].values)
 print("type(tot.iloc[1:7:2].index)", type(tot.iloc[1:7:2].index)) #<class 'pandas.core.indexes.base.Index'>
 print("type(tot.iloc[1:7:2].index.values)",type(tot.iloc[1:7:2].index.values)) #<class 'numpy.ndarray'>
 print("type(tot.iloc[1:7:2].values)",type(tot.iloc[1:7:2].values)) #<class 'numpy.ndarray'>
-
+print("2.3--------------------------------------------")
+print(tot.iloc[[1, 3, 5]])
 
 '''
 print("\n1학년총학생수   2학년총학생수   3학년 총학생수")

@@ -65,6 +65,9 @@ robots.txt 의 몇가지 속성
 	   User-agent: 어떤 크롤러를 허용할 것인지 작성
 	   Allow: 크롤링을 허용하는 특정 페이지
 	   Disallow:  크롤링을 허용하지 않는 특정 페이지
+
+
+https://www.useragentstring.com/
 	   
 
 

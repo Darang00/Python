@@ -1,0 +1,23 @@
+[
+    {
+    "name": "기본 티셔츠",
+    "color": "회색",
+    "size": "M",
+    "price": 10000,
+    "brand": "python"
+    },
+    {
+    "name": "니트",
+    "color": "검정색",
+    "size": "L",
+    "price": 22000,
+    "brand": "python"
+    },
+    {
+    "name": "패딩",
+    "color": "흰색",
+    "size": "S",
+    "price": 300000,
+    "brand": "python"
+    }
+]

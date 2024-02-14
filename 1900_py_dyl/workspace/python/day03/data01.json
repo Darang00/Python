@@ -1,0 +1,7 @@
+{
+    "name":"basic shirt",
+    "colour": "grey",
+    "size": "M",
+    "price":10000,
+    "brand":"python"
+}

@@ -1,0 +1,10 @@
+{
+    "name" : "김철수",
+    "board" : {
+    "title": "hi",
+    "content": "반가워요~",
+    "writer" : "박웅이"
+    },
+    "fruits" : ["banana", "apple", "cherry"],
+    "products" : [{"name": "아이폰"},{"name": "갤럭시"}]
+}

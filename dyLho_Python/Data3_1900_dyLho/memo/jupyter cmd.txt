@@ -1,0 +1,7 @@
+아나콘다 cmd 에서 해야한다....
+
+(base) C:\Users\Administrator>D:
+
+(base) D:\>cd dyLho_Python\Data3_1900_dyLho\workspace
+
+(base) D:\dyLho_Python\Data3_1900_dyLho\workspace>jupyter notebook

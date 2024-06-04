@@ -1,7 +1,0 @@
-아나콘다 cmd 에서 해야한다....
-
-(base) C:\Users\Administrator>D:
-
-(base) D:\>cd D:\Data2_1900_dyLho\workspace
-
-(base) D:\Data2_1900_dyLho\workspace>jupyter notebook

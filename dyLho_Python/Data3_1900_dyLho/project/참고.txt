@@ -1,7 +1,0 @@
-C:\Users\Administrator\.vscode
-
-서울시 대규모점포 인허가 정보
-https://data.seoul.go.kr/dataList/OA-16096/S/1/datasetView.do#AXexec
-
-서울시 전통시장 현황
-https://data.seoul.go.kr/dataList/OA-1176/S/1/datasetView.do#AXexec

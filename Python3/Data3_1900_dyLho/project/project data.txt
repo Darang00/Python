@@ -1,0 +1,23 @@
+동대문구 내 지역별 인구 데이터
+https://www.ddm.go.kr/ddmmap/selectPopltnInfoWebList.do?key=1650
+
+동대문구 데이터플랫폼
+https://www.ddm.go.kr/ddmmap/contents.do?key=1652
+
+서울 불법주정차 현황
+https://data.seoul.go.kr/dataList/OA-22189/F/1/datasetView.do
+
+서울 불법주정차 단속 현황
+https://data.seoul.go.kr/dataList/OA-22190/F/1/datasetView.do
+
+서울시 동대문구 불법주정차 위반 단속 CCTV 위치정보
+https://data.seoul.go.kr/dataList/OA-20477/S/1/datasetView.do
+
+서울 교통량 정보
+https://data.seoul.go.kr/dataList/OA-13316/A/1/datasetView.do
+
+서울 교통량 지점 정보
+https://data.seoul.go.kr/dataList/OA-13314/A/1/datasetView.do
+
+서울 구별 교통사고현황
+https://data.seoul.go.kr/dataList/10057/S/2/datasetView.do

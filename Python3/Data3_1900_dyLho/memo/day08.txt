@@ -1,0 +1,16 @@
+day08
+
+Folium 라이브러리
+ - 지도 위에 시각화할 때 유용한 라이브러리
+ - 세계지도를 기본 지원하고 
+ - Anaconda prompt: 에서 folium 설치하는 법
+ conda install -c conda-forge folium
+
+
+1) Folium 사용
+ - 지도 객체 생성
+	import folium
+	folium.Map(location = [위도, 경도], zoom_start = 확대비율)
+	지도객체를 만들 때 위도, 경도 수치를 입력하면 해당 지점을 중심으로 지도를 보여준다.
+	zoom_start 옵션을 사용해서 확대 배율을 조절할 수 있다.
+
